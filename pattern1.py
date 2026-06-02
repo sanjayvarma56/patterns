@@ -23,4 +23,5 @@ class pattern:
                 print("*",end=" ")
             print()
 s = pattern()
-s.square_star_pattern(n)
+s.square_star_pattern(4)
+s.square_star_pattern(2)
