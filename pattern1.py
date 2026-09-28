@@ -1,3 +1,4 @@
+#Pattern1
 #1.Square Star Pattern
 #2.Ask the user to enter a number.
 #3.Use the outer loop to control the number of rows.
