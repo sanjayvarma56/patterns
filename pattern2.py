@@ -43,4 +43,4 @@ class pattern:
             print()
 s = pattern()
 s.right_triangle(4)
-s.right_triangle(2). 
+s.right_triangle(2)
