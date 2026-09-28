@@ -1,3 +1,4 @@
+# Pattern 2
 # Take the number of rows from the user
 # Loop through each row
 # Print stars in the current row
